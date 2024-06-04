@@ -19,6 +19,8 @@ This project is a fully functional e-commerce website developed using HTML, CSS,
 - HTML
 - CSS
 - JavaScript
+- .Net
+- C#
 
 ## Usage
 
